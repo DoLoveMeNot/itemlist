@@ -6,6 +6,12 @@
     "version": "1.3.0.0"
   },
   {
+    "author": "Samboy063",
+    "name": "BetterLoading",
+    "steamId": "1999454301",
+    "version": "3.3.0.0"
+  },
+  {
     "author": "SheiFoxy",
     "name": "SF Grim Reality",
     "steamId": null,
@@ -81,7 +87,7 @@
     "author": "Jecrell and contributors",
     "name": "Rim of Madness - Vampires",
     "steamId": "1187010034",
-    "version": "1.23.1.0"
+    "version": "1.24.0.1"
   },
   {
     "author": "Oskar Potocki,  LimeTreeSnake and  Kikohi",
@@ -112,6 +118,18 @@
     "name": "(NWN) Real Fog of War",
     "steamId": "2560931731",
     "version": "1.1.8.1"
+  },
+  {
+    "author": "void",
+    "name": "Character Editor",
+    "steamId": "1874644848",
+    "version": "1.3.842.0"
+  },
+  {
+    "author": "Hahkethomemah",
+    "name": "1-2-3 Personalities M1",
+    "steamId": "2527258500",
+    "version": "0.0.0.0"
   },
   {
     "author": "AgentBlac",
@@ -192,10 +210,22 @@
     "version": "2.3.2.0"
   },
   {
-    "author": "void",
-    "name": "Character Editor",
-    "steamId": "1874644848",
-    "version": "1.3.842.0"
+    "author": "Mlie",
+    "name": "Choose Wild Animal Spawns",
+    "steamId": "2564042934",
+    "version": "1.3.4"
+  },
+  {
+    "author": "Imranfish",
+    "name": "XML Extensions",
+    "steamId": "2574315206",
+    "version": "1.6.6"
+  },
+  {
+    "author": "Comigo Games",
+    "name": "Comigo's Majestic Trees",
+    "steamId": null,
+    "version": null
   },
   {
     "author": "PeteTimesSix",
@@ -210,6 +240,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Nyan",
+    "name": "Custom Pawn Generation",
+    "steamId": "1958331203",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "NilchEi",
     "name": "Darkest Night SK Steam",
     "steamId": "1840579077",
@@ -218,6 +254,18 @@
   {
     "author": "DaLLaN",
     "name": "DeCore 1.3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Captain Muscles (Nathan Harbour)",
+    "name": "Desperate Hunger",
+    "steamId": "2411212162",
+    "version": "1.0.3"
+  },
+  {
+    "author": "RK Skuller",
+    "name": "Destroyed City (Continued)",
     "steamId": null,
     "version": null
   },
@@ -282,6 +330,12 @@
     "version": null
   },
   {
+    "author": "SirMashedPotato",
+    "name": "FogWorld",
+    "steamId": "2539453164",
+    "version": "1.0.0"
+  },
+  {
     "author": "Oskar Potocki,  Helixien,  Erin,  Luizi,  ISOREX and  erdelf",
     "name": "Vanilla Textures Expanded",
     "steamId": "2016436324",
@@ -322,6 +376,12 @@
     "name": "GloomyFurniture",
     "steamId": "1558635181",
     "version": "1.0.4"
+  },
+  {
+    "author": "Albion",
+    "name": "Go Explore!",
+    "steamId": "1814100216",
+    "version": "1.1.0"
   },
   {
     "author": "AUTOMATIC",
@@ -378,16 +438,22 @@
     "version": "1.6.5.1"
   },
   {
+    "author": "Syrus",
+    "name": "Light Map",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Andreas Pardeike",
     "name": "Line Of Sight Fix",
     "steamId": null,
     "version": null
   },
   {
-    "author": "Imranfish",
-    "name": "XML Extensions",
-    "steamId": "2574315206",
-    "version": "1.6.6"
+    "author": "Ratys",
+    "name": "Mad Skills",
+    "steamId": "731111514",
+    "version": "2.5.0.0"
   },
   {
     "author": "Imranfish",
@@ -406,6 +472,12 @@
     "name": "Mooloh's Mythic Framework",
     "steamId": "2819828894",
     "version": "0.0.0.0"
+  },
+  {
+    "author": "Caulaflower,  Blyatman and  Graved",
+    "name": "More Injuries",
+    "steamId": "2515060094",
+    "version": "1.0.0.0"
   },
   {
     "author": "Alan Dariva and  Usagirei",
@@ -486,6 +558,12 @@
     "version": "2.2"
   },
   {
+    "author": "Owlchemist",
+    "name": "Perspective: Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "telardo",
     "name": "Pipette Tool",
     "steamId": null,
@@ -528,6 +606,12 @@
     "version": null
   },
   {
+    "author": "mr.teterew",
+    "name": "Real Ruins",
+    "steamId": "1552146295",
+    "version": "2.2.2.0"
+  },
+  {
     "author": "Uuugggg",
     "name": "Replace Stuff",
     "steamId": "1372003680",
@@ -552,6 +636,12 @@
     "version": "1.0.0.0"
   },
   {
+    "author": "Cabbage",
+    "name": "RimCities",
+    "steamId": "1775170117",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Jaxe",
     "name": "RimHUD",
     "steamId": null,
@@ -562,6 +652,12 @@
     "name": "RimTraits - Medieval Talents",
     "steamId": "1916352291",
     "version": "1.0.0.0"
+  },
+  {
+    "author": "SirMashedPotato",
+    "name": "RimWorld - Black Plague",
+    "steamId": "2798827353",
+    "version": "1.0.3"
   },
   {
     "author": "SirMashedPotato",
@@ -711,7 +807,7 @@
     "author": "SirRandoo",
     "name": "ToolkitUtils",
     "steamId": "2009500580",
-    "version": "6.2.0.5"
+    "version": "6.2.0.7"
   },
   {
     "author": "saschahi",
@@ -932,6 +1028,12 @@
   {
     "author": "Wemd",
     "name": "[WD] Expanded Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Realistic Darkness",
     "steamId": null,
     "version": null
   },
